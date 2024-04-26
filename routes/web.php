@@ -29,3 +29,7 @@ Route::get('/about', function () {
 Route::get('/contact', function () {
     return view('public.contact');
 })->name('contact');
+
+Route::get('/checkout/{id}', function () {
+    return view('public.checkout');
+})->name('checkout');

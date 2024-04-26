@@ -396,7 +396,7 @@
                                 <div class="btn-box">
                                     <span> Per Hours ($789)</span>
                                     <small>$789</small>
-                                    <a href="#" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
+                                    <a href="{{route('yachts-details', 123)}}" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
                                             width="14" height="14" viewbox="0 0 14 14" fill="none">
                                             <g clip-path="url(#clip0_601_4346)">
                                                 <path
@@ -443,7 +443,7 @@
                                 </a>
                             </div>
                             <div class="content-box">
-                                <h6 class="title"><a href="SKYRA-details.html">SKYRA - 76ft/23M - <br> Yacht</a>
+                                <h6 class="title"><a href="{{route('yachts-details', 123)}}">SKYRA - 76ft/23M - <br> Yacht</a>
                                 </h6>
                                 <ul>
                                     <li><i class="flaticon-user"></i>5 Guests</li>
@@ -452,7 +452,7 @@
                                 <div class="btn-box">
                                     <span>Per Hours ($789)</span>
                                     <small>$399</small>
-                                    <a href="#" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
+                                    <a href="{{route('yachts-details', 123)}}" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
                                             width="14" height="14" viewbox="0 0 14 14" fill="none">
                                             <g clip-path="url(#clip0_601_4346)">
                                                 <path
@@ -509,7 +509,7 @@
                                 <div class="btn-box">
                                     <span>Per Hours ($789)</span>
                                     <small>$399</small>
-                                    <a href="#" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
+                                    <a href="{{route('yachts-details', 123)}}" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
                                             width="14" height="14" viewbox="0 0 14 14" fill="none">
                                             <g clip-path="url(#clip0_601_4346)">
                                                 <path
@@ -566,7 +566,7 @@
                                 <div class="btn-box">
                                     <span>Per Hours ($789)</span>
                                     <small>$399</small>
-                                    <a href="#" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
+                                    <a href="{{route('yachts-details', 123)}}" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
                                             width="14" height="14" viewbox="0 0 14 14" fill="none">
                                             <g clip-path="url(#clip0_601_4346)">
                                                 <path
@@ -623,7 +623,7 @@
                                 <div class="btn-box">
                                     <span>Per Hours ($789)</span>
                                     <small>$399</small>
-                                    <a href="#" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
+                                    <a href="{{route('yachts-details', 123)}}" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
                                             width="14" height="14" viewbox="0 0 14 14" fill="none">
                                             <g clip-path="url(#clip0_601_4346)">
                                                 <path
@@ -679,7 +679,7 @@
                                 <div class="btn-box">
                                     <span>Per Hours ($789)</span>
                                     <small>$399</small>
-                                    <a href="#" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
+                                    <a href="{{route('yachts-details', 123)}}" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
                                             width="14" height="14" viewbox="0 0 14 14" fill="none">
                                             <g clip-path="url(#clip0_601_4346)">
                                                 <path
@@ -740,7 +740,7 @@
                                 <div class="btn-box">
                                     <span>Per Hours ($789)</span>
                                     <small>$399</small>
-                                    <a href="#" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
+                                    <a href="{{route('yachts-details', 123)}}" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
                                             width="14" height="14" viewbox="0 0 14 14" fill="none">
                                             <g clip-path="url(#clip0_601_4346)">
                                                 <path
@@ -796,7 +796,7 @@
                                 <div class="btn-box">
                                     <span> Per Hours ($789)</span>
                                     <small>$789</small>
-                                    <a href="#" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
+                                    <a href="{{route('yachts-details', 123)}}" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
                                             width="14" height="14" viewbox="0 0 14 14" fill="none">
                                             <g clip-path="url(#clip0_601_4346)">
                                                 <path
@@ -853,7 +853,7 @@
                                 <div class="btn-box">
                                     <span>Per Hours ($789)</span>
                                     <small>$399</small>
-                                    <a href="#" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
+                                    <a href="{{route('yachts-details', 123)}}" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
                                             width="14" height="14" viewbox="0 0 14 14" fill="none">
                                             <g clip-path="url(#clip0_601_4346)">
                                                 <path
@@ -910,7 +910,7 @@
                                 <div class="btn-box">
                                     <span>Per Hours ($789)</span>
                                     <small>$399</small>
-                                    <a href="#" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
+                                    <a href="{{route('yachts-details', 123)}}" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
                                             width="14" height="14" viewbox="0 0 14 14" fill="none">
                                             <g clip-path="url(#clip0_601_4346)">
                                                 <path
@@ -967,7 +967,7 @@
                                 <div class="btn-box">
                                     <span>Per Hours ($789)</span>
                                     <small>$399</small>
-                                    <a href="#" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
+                                    <a href="{{route('yachts-details', 123)}}" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
                                             width="14" height="14" viewbox="0 0 14 14" fill="none">
                                             <g clip-path="url(#clip0_601_4346)">
                                                 <path
@@ -1024,7 +1024,7 @@
                                 <div class="btn-box">
                                     <span>Per Hours ($789)</span>
                                     <small>$399</small>
-                                    <a href="#" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
+                                    <a href="{{route('yachts-details', 123)}}" class="details">View Details<svg xmlns="http://www.w3.org/2000/svg"
                                             width="14" height="14" viewbox="0 0 14 14" fill="none">
                                             <g clip-path="url(#clip0_601_4346)">
                                                 <path

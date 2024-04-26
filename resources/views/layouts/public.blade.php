@@ -23,7 +23,7 @@
     <div class="boxcar-wrapper">
 
         <!-- main header -->
-        @if (Route::is('contact') || Route::is('about') || Route::is('yachts/details.*') || Route::is('cars/details.*'))
+        @if (Route::is('contact') || Route::is('about') || Route::is('yachts-details') || Route::is('cars-details') || Route::is('checkout'))
             <x-header-all />
         @else
             <x-header-cars />
