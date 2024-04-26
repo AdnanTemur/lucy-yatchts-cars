@@ -31,18 +31,18 @@
                         <div class="image-column wrap-gallery-box">
                             <div class="inner-column inventry-slider-two">
                                 <div class="image-box">
-                                    <figure class="image"><a href="images/yatchts images/SKYRA.png" data-fancybox="gallery"><img src="images/yatchts images/SKYRA.png" alt=""></a></figure>
+                                    <figure class="image"><a href="images/yachts images/SKYRA.png" data-fancybox="gallery"><img src="images/yachts images/SKYRA.png" alt=""></a></figure>
                                     
                                 </div>
                                 <div class="image-box">
-                                    <figure class="image"><a href="images/yatchts images/SKYRA-1.png" data-fancybox="gallery"><img src="images/yatchts images/SKYRA-1.png" alt=""></a></figure>
+                                    <figure class="image"><a href="images/yachts images/SKYRA-1.png" data-fancybox="gallery"><img src="images/yachts images/SKYRA-1.png" alt=""></a></figure>
                                    
                                 </div>
                             </div>
                             <div class="content-box">
                                 <ul class="video-list">
                                   
-                                    <li><a href="images/yatchts images/SKYRA.png" data-fancybox="gallery"><img src="images/resource/video1-4.svg">All Photos</a></li>
+                                    <li><a href="images/yachts images/SKYRA.png" data-fancybox="gallery"><img src="images/resource/video1-4.svg">All Photos</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -504,7 +504,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <div class="slider-thumb">
-                                <div class="image"><a href="#"><img src="images/yatchts images/jet ski.png"  alt=""></a></div>
+                                <div class="image"><a href="#"><img src="images/yachts images/jet ski.png"  alt=""></a></div>
                                 <div class="image"><a href="#"><img src="images/resource/shop3-2.jpg"
                                             alt=""></a></div>
                                 <div class="image"><a href="#"><img src="images/resource/shop3-3.jpg"
@@ -559,10 +559,10 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <div class="slider-thumb">
-                                <div class="image"><a href="#"><img src="images/yatchts images/50ft Al Shali.jpeg"  alt=""></a></div>
-                                <div class="image"><a href="#"><img src="images/yatchts images/50ft Al Shali -2.jpeg"
+                                <div class="image"><a href="#"><img src="images/yachts images/50ft Al Shali.jpeg"  alt=""></a></div>
+                                <div class="image"><a href="#"><img src="images/yachts images/50ft Al Shali -2.jpeg"
                                             alt=""></a></div>
-                                            <div class="image"><a href="#"><img src="images/yatchts images/50ft Al Shali -3.jpeg"
+                                            <div class="image"><a href="#"><img src="images/yachts images/50ft Al Shali -3.jpeg"
                                                 alt=""></a></div>
                             </div>
                             <a href="#" title="" class="icon-box">
@@ -613,9 +613,9 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <div class="slider-thumb">
-                                <div class="image"><a href="#"><img src="images/yatchts images/SKYRA.png"  alt=""></a></div>
-                                <div class="image"><a href="#"><img src="images/yatchts images/SKYRA-1.png"  alt=""></a></div>
-                                <div class="image"><a href="#"><img src="images/yatchts images/SKYRA-2.png"  alt=""></a></div>
+                                <div class="image"><a href="#"><img src="images/yachts images/SKYRA.png"  alt=""></a></div>
+                                <div class="image"><a href="#"><img src="images/yachts images/SKYRA-1.png"  alt=""></a></div>
+                                <div class="image"><a href="#"><img src="images/yachts images/SKYRA-2.png"  alt=""></a></div>
                              
                             </div>
                             <a href="#" title="" class="icon-box">
@@ -666,9 +666,9 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <div class="slider-thumb">
-                                <div class="image"><a href="#"><img src="images/yatchts images/Gold Yacht.png"  alt=""></a></div>
-                                <div class="image"><a href="#"><img src="images/yatchts images/Gold Yacht 1.png"  alt=""></a></div>
-                                <div class="image"><a href="#"><img src="images/yatchts images/Gold Yacht 2.png"  alt=""></a></div>
+                                <div class="image"><a href="#"><img src="images/yachts images/Gold Yacht.png"  alt=""></a></div>
+                                <div class="image"><a href="#"><img src="images/yachts images/Gold Yacht 1.png"  alt=""></a></div>
+                                <div class="image"><a href="#"><img src="images/yachts images/Gold Yacht 2.png"  alt=""></a></div>
                                
                             </div>
                             <a href="#" title="" class="icon-box">
@@ -719,9 +719,9 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <div class="slider-thumb">
-                                <div class="image"><a href="#"><img src="images/yatchts images/MAZAYEL.png"  alt=""></a></div>
-                                <div class="image"><a href="#"><img src="images/yatchts images/MAZAYEL  1.png"  alt=""></a></div>
-                                <div class="image"><a href="#"><img src="images/yatchts images/MAZAYEL 2.png"  alt=""></a></div>
+                                <div class="image"><a href="#"><img src="images/yachts images/MAZAYEL.png"  alt=""></a></div>
+                                <div class="image"><a href="#"><img src="images/yachts images/MAZAYEL  1.png"  alt=""></a></div>
+                                <div class="image"><a href="#"><img src="images/yachts images/MAZAYEL 2.png"  alt=""></a></div>
                                
                             </div>
                             <a href="#" title="" class="icon-box">
@@ -772,9 +772,9 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <div class="slider-thumb">
-                                <div class="image"><a href="#"><img src="images/yatchts images/Sunseeker.png"  alt=""></a></div>
-                                <div class="image"><a href="#"><img src="images/yatchts images/Sunseeker (1).png"  alt=""></a></div>
-                                <div class="image"><a href="#"><img src="images/yatchts images/Sunseeker (2).png"  alt=""></a></div>
+                                <div class="image"><a href="#"><img src="images/yachts images/Sunseeker.png"  alt=""></a></div>
+                                <div class="image"><a href="#"><img src="images/yachts images/Sunseeker (1).png"  alt=""></a></div>
+                                <div class="image"><a href="#"><img src="images/yachts images/Sunseeker (2).png"  alt=""></a></div>
                                
                             </div>
                             <a href="#" title="" class="icon-box">

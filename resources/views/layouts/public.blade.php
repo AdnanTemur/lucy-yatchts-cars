@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Lucy Yatchts & Cars</title>
+    <title>Lucy Yachts & Cars</title>
     <!-- Stylesheets -->
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}" type="text/css">
     <link rel="stylesheet" href="{{ asset('css/slick-theme.css') }}" type="text/css">
@@ -23,7 +23,7 @@
     <div class="boxcar-wrapper">
 
         <!-- main header -->
-        @if (Route::is('contact') || Route::is('about') || Route::is('yatchts/details/*') || Route::is('cars/details/*'))
+        @if (Route::is('contact') || Route::is('about') || Route::is('yachts/details.*') || Route::is('cars/details.*'))
             <x-header-all />
         @else
             <x-header-cars />

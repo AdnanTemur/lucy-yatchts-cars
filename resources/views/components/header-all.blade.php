@@ -6,7 +6,7 @@
                 <div class="logo-inner">
                     <div class="logo"><a href="index.html">
                             {{-- <img src="images/logo.svg" alt="" title="Boxcar"> --}}
-                            <h2 class="logo-text m-0">Lucy Yatchts & Cars</h2>
+                            <h2 class="logo-text m-0">Lucy yachts & Cars</h2>
                         </a></div>
                     <div class="layout-search style1" style="display: none;">
                         <div class="search-box">
@@ -107,7 +107,7 @@
                             <li class="current-dropdown">
                                 {{-- <span>Inventory <i class="fa-solid fa-angle-down"></i>
                                 </span> --}}
-                                <a href="{{ route('yatchts-home') }}">Yatchts</a>
+                                <a href="{{ route('yachts-home') }}">Yachts</a>
                                 {{-- <div class="mega-menu">
                                     <div class="mega-column">
                                         <h3>Inventory List</h3>

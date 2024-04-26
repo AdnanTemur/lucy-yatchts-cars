@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Lucy Yatchts & Cars</title>
+    <title>Lucy Yachts & Cars</title>
 
     <!-- Fonts -->
 
@@ -71,7 +71,7 @@
                             <h3 class="title">Are You Looking <br>For a Rental Yacht ?</h3>
                             <div class="text">We are committed to providing our customers with exceptional service.
                             </div>
-                            <a href="{{ route('yatchts-home') }}" class="read-more">Get Started
+                            <a href="{{ route('yachts-home') }}" class="read-more">Get Started
                                 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14"
                                     viewBox="0 0 14 14" fill="none">
                                     <g clip-path="url(#clip0_601_692)">

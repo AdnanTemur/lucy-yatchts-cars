@@ -14,13 +14,13 @@ Route::get('/cars/details/{id}', function () {
     return view('public.cars.details');
 })->name('cars-details');
 
-Route::get('/yatchts', function () {
-    return view('public.yatchts.index');
-})->name('yatchts-home');
+Route::get('/yachts', function () {
+    return view('public.yachts.index');
+})->name('yachts-home');
 
-Route::get('/yatchts/details/{id}', function () {
-    return view('public.yatchts.details');
-})->name('yatchts-details');
+Route::get('/yachts/details/{id}', function () {
+    return view('public.yachts.details');
+})->name('yachts-details');
 
 Route::get('/about', function () {
     return view('public.about');

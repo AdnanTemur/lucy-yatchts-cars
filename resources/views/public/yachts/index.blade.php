@@ -68,7 +68,7 @@
                                     </div>
                                     <div class="form-submit">
                                         <button type="submit" class="theme-btn" style="border-radius: 30px;"><i class="flaticon-search"></i>Search
-                                            Yatcht</button>
+                                            Yacht</button>
                                     </div>
                                 </form>
                             </div>
