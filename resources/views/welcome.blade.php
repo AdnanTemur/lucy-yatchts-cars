@@ -14,8 +14,8 @@
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
 
     <!--Resources-->
-    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-    <link rel="icon" href="images/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ asset('images/favicon.png') }}" type="image/x-icon">
+    <link rel="icon" href="{{ asset('images/favicon.png') }}" type="image/x-icon">    
 
     <!-- Responsive -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">

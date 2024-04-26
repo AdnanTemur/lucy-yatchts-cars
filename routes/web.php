@@ -10,7 +10,7 @@ Route::get('/cars', function () {
     return view('public.cars.index');
 })->name('cars-home');
 
-Route::get('/cars/{id}', function () {
+Route::get('/cars/details/{id}', function () {
     return view('public.cars.details');
 })->name('cars-details');
 
@@ -18,7 +18,7 @@ Route::get('/yatchts', function () {
     return view('public.yatchts.index');
 })->name('yatchts-home');
 
-Route::get('/yatchts/{id}', function () {
+Route::get('/yatchts/details/{id}', function () {
     return view('public.yatchts.details');
 })->name('yatchts-details');
 
