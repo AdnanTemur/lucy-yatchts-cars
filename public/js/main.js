@@ -161,18 +161,32 @@
     });
   };
 
+
   var cusSelect = function () {
+    // Toggle dropdown when clicking on .drop-menu
     $(document).on("click", ".drop-menu", function (a) {
-      var args = { duration: 300 };
-      if ($(this).hasClass("active")) {
-        $(this).children(".dropdown").slideToggle(args);
-        $(this).removeClass("active");
-      } else {
-        $(".dropdown").slideUp(args);
-        $(this).children(".dropdown").slideDown(args);
-        $(".drop-menu").removeClass("active");
-        $(this).addClass("active");
-      }
+        var args = { duration: 300 };
+        if ($(this).hasClass("active")) {
+            $(this).children(".dropdown").slideToggle(args);
+            $(this).removeClass("active");
+        } else {
+            $(".dropdown").slideUp(args);
+            $(this).children(".dropdown").slideDown(args);
+            $(".drop-menu").removeClass("active");
+            $(this).addClass("active");
+        }
+        // Prevent click event from propagating to document
+        a.stopPropagation();
+    });
+
+    // Close dropdown when clicking outside of .drop-menu
+    $(document).on("click", function (e) {
+        var dropdowns = $(".drop-menu");
+        // Check if click target is not inside any .drop-menu
+        if (!dropdowns.is(e.target) && dropdowns.has(e.target).length === 0) {
+            $(".dropdown").slideUp({ duration: 300 });
+            dropdowns.removeClass("active");
+        }
     });
 
     $(".drop-menu .dropdown li").on("click", function () {
