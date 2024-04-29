@@ -14,6 +14,10 @@ Route::get('/cars/details/{id}', function () {
     return view('public.cars.details');
 })->name('cars-details');
 
+Route::get('/cars/list', function () {
+    return view('public.cars.list');
+})->name('cars-list');
+
 Route::get('/yachts', function () {
     return view('public.yachts.index');
 })->name('yachts-home');
@@ -21,6 +25,10 @@ Route::get('/yachts', function () {
 Route::get('/yachts/details/{id}', function () {
     return view('public.yachts.details');
 })->name('yachts-details');
+
+Route::get('/yachts/list', function () {
+    return view('public.yachts.list');
+})->name('yachts-list');
 
 Route::get('/about', function () {
     return view('public.about');

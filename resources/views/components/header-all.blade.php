@@ -1,4 +1,4 @@
-<header class="boxcar-header header-style-v1 style-two inner-header cus-style-1">
+<header class="boxcar-header header-style-v1 header-style-v1-2 style-two inner-header cus-style-1">
     <div class="header-inner">
         <div class="inner-container">
             <!-- Main box -->

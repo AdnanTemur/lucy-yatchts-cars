@@ -1975,6 +1975,11 @@ Main Header
 ====================================================================
 
 ***/
+.header-style-v1-2 {
+  position: relative;
+  background: #050b20;
+}
+
 .header-style-v1 {
   position: absolute;
 }
@@ -21688,7 +21693,7 @@ Chat Widget
 
 .inventory-pager {
   padding: 50px 0 70px;
-  background: #050B20;
+  background: #ebebeb;
 }
 
 .inventory-pager .inventory-form {
@@ -21697,8 +21702,10 @@ Chat Widget
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  justify-content: space-evenly;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+  width: fit-content;
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
@@ -21709,8 +21716,15 @@ Chat Widget
 }
 
 .inventory-pager .inventory-form .form_boxes {
-  width: 16.4%;
+  width: fit-content;
   height: 76px;
+}
+
+.inventory-pager .inventory-form .form_boxes .drop-menu .select span{
+  padding-right: 3rem;
+}
+.inventory-pager .inventory-form .form-submit{
+  padding-left: 3rem;
 }
 
 .inventory-pager .inventory-form .form_boxes a {
@@ -25683,13 +25697,13 @@ Chat Widget
     height: auto;
   }
 
-  .inventory-pager {
+  /* .inventory-pager {
     padding-bottom: 120px;
-  }
+  } */
 
   .inventory-pager .inventory-form .form-submit .theme-btn {
     position: relative;
-    bottom: -15px;
+    /* bottom: -15px; */
   }
 
   .cars-section-four .form-box .form_boxes .drop-menu {
@@ -29193,9 +29207,9 @@ Chat Widget
   background-color: #fff;
 }
 
-.inventory-pager.style-1 {
+/* .inventory-pager.style-1 {
   padding-bottom: 150px;
-}
+} */
 
 @media (max-width: 991px) {
   /* .layout-radius {
