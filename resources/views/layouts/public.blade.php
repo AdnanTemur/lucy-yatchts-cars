@@ -16,10 +16,13 @@
     <!-- Responsive -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    {{-- @vite(['resources/css/app.css', 'resources/js/app.js']) --}}
+    @vite(['resources/js/app.js'])
 </head>
 
-<body>
+<body x-data="{ loaded: true }" style="overflow: hidden" :style="{ overflow: loaded ? 'hidden' : 'auto' }">
+    <!-- ===== Preloader Start ===== -->
+    <x-preloader />
+    <!-- ===== Preloader End ===== -->
     <div class="boxcar-wrapper">
 
         <!-- main header -->
