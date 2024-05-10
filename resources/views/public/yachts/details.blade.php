@@ -224,7 +224,7 @@
                             </div>
                         </div>
 
-                        <div class="main-review-box">
+                        {{-- <div class="main-review-box">
                             <div class="review-sec v2">
                                 <h4 class="title">Customer Reviews</h4>
                                 <div class="review-box">
@@ -365,8 +365,8 @@
                                     </a>
                                 </div>
                             </div>
-                        </div>
-                        <div class="reply-c-box">
+                        </div> --}}
+                        {{-- <div class="reply-c-box">
                             <div class="Reply-sec">
                                 <h6 class="title">Leave a Reply</h6>
                                 <div class="text">Your email address will not be published. Required fields are marked *
@@ -483,7 +483,7 @@
                                     </div>
                                 </div>
                             </form>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
                 <div class="side-bar-column v2 v3 v4 col-xl-4  col-lg-12 col-md-12 col-sm-12">

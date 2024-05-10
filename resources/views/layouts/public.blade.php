@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Lucy Yachts & Cars</title>
+    <title>Miami Luxury Yachts & Cars</title>
     <!-- Stylesheets -->
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}" type="text/css">
     <link rel="stylesheet" href="{{ asset('css/slick-theme.css') }}" type="text/css">

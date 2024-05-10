@@ -183,7 +183,7 @@
                                 </form>
                             </div>
                         </div>
-                        <span class="wow fadeInUp" data-wow-delay="400ms">Or Browse Featured Model</span>
+                        <span class="wow fadeInUp" data-wow-delay="400ms" style="position: relative; z-index: -1;">Or Browse Featured Model</span>
                         <ul class="model-links">
                             <li>
                                 <a href="#" title="">
@@ -224,7 +224,7 @@
         <div class="boxcar-container">
             <div class="boxcar-title">
                 <h2 class="wow fadeInUp">Explore Our Premium Brands</h2>
-                <a href="#" class="btn-title">Show All Brands<svg xmlns="http://www.w3.org/2000/svg"
+                <a href="{{route('yachts-list')}}" class="btn-title">Show All Brands<svg xmlns="http://www.w3.org/2000/svg"
                         width="14" height="14" viewbox="0 0 14 14" fill="none">
                         <g clip-path="url(#clip0_601_3199)">
                             <path
@@ -1196,7 +1196,7 @@
                     <div class="content-column col-lg-4 col-md-12 col-sm-12">
                         <div class="inner-column">
                             <div class="boxcar-title light">
-                                <h2>Who is Lucy Yachts and Cars</h2>
+                                <h2>Who is Miami Luxury Yachts and Cars</h2>
                                 <div class="text">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
                                     officia deserunt mollit anim id es</div>
                             </div>

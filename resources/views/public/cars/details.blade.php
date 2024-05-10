@@ -142,7 +142,7 @@
                         </div>
                     </div>
                     <!-- description-sec -->
-                    <div class="description-sec">
+                    {{-- <div class="description-sec">
                         <h4 class="title">Description</h4>
                         <div class="text two">Quisque imperdiet dignissim enim dictum finibus. 
                             Sed consectetutr convallis enim eget laoreet. Aenean vitae nisl 
@@ -164,7 +164,7 @@
                             <li class="three"><a href="#" class="item">
                                 <img src="{{asset('images/resource/book1-3.svg')}}">Schedule Test Drive</a></li>
                         </ul>
-                    </div>
+                    </div> --}}
                     <!-- features-sec -->
                     <div class="features-sec">
                         <h4 class="title">Features</h4>
@@ -323,7 +323,7 @@
                         </div>
                     </div>
                     <!-- End faqs-section -->
-                    <div class="location-box">
+                    {{-- <div class="location-box">
                         <h4 class="title">Location</h4>
                         <div class="text">Ford Shirley, 361 - 369 Stratford Road, Shirley, Solihull, B90 3BS
                             Open today 9am - 6pm
@@ -618,8 +618,8 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <form class="row">
+                    </div> --}}
+                    {{-- <form class="row">
                         <div class="col-lg-6">
                             <div class="form_boxes">
                                 <label>Name</label>
@@ -659,7 +659,7 @@
                                 </button>
                             </div>
                         </div>
-                    </form>
+                    </form> --}}
                 </div>
             </div>
             <div class="side-bar-column style-1 col-lg-4 col-md-12 col-sm-12">
