@@ -6,8 +6,9 @@
                 <div class="logo-inner">
                     <div class="logo"><a href="index.html">
                             {{-- <img src="images/logo.svg" alt="" title="Boxcar"> --}}
-                            <h2 class="logo-text m-0">Lucy yachts & Cars</h2>
-                        </a></div>
+                            <h2 class="logo-text m-0">Miami Luxury yachts & Cars</h2>
+                        </a>
+                    </div>
                     <div class="layout-search style1" style="display: none;">
                         <div class="search-box">
                             <svg class="icon" width="16" height="16" viewBox="0 0 16 16" fill="none"

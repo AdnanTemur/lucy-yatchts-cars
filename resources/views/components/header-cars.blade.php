@@ -7,7 +7,7 @@
                     <div class="logo-inner" style="margin-left: 22px;">
                         <div class="logo"><a href="index.html">
                                 {{-- <img src="images/logo.svg" alt="" title="Boxcar"> --}}
-                                <h2 class="logo-text m-0">Lucy yachts & Cars</h2>
+                                <h2 class="logo-text m-0">Miami Luxury Yachts & Cars</h2>
                             </a></div>
                         <!-- <div class="search-btn">
                             <a href="#" class="search">

@@ -2,9 +2,14 @@
 
 namespace Database\Seeders;
 
+use App\Models\CarDetails;
 use App\Models\User;
 // use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
+use Database\Seeders\VehiclesSeeder;
+use Database\Seeders\YachtDetailsSeeder;
+use Database\Seeders\CarDetailsSeeder;
+use Database\Seeders\CategorySeeder;
 
 class DatabaseSeeder extends Seeder
 {
@@ -16,8 +21,16 @@ class DatabaseSeeder extends Seeder
         // User::factory(10)->create();
 
         User::factory()->create([
-            'name' => 'Test User',
-            'email' => 'test@example.com',
+            'name' => 'admin',
+            'email' => 'admin@example.com',
+        ]);
+
+        $this->call([
+            CategorySeeder::class,
+            VehiclesSeeder::class,
+            CarDetailsSeeder::class,
+            YachtDetailsSeeder::class,
+            // Add other seeders here
         ]);
     }
 }

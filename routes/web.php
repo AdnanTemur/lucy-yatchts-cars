@@ -1,6 +1,10 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\DocusignController;
+use App\Http\Controllers\VehiclesController;
+use App\Models\Category;
+use App\Models\Vehicles;
 
 Route::get('/', function () {
     return view('welcome');
@@ -41,3 +45,16 @@ Route::get('/contact', function () {
 Route::get('/checkout/{id}', function () {
     return view('public.checkout');
 })->name('checkout');
+
+Route::get('/dashboard', function () {
+    return view('admin.dashboard');
+});
+Route::get('/dashboard/addlisting', function () {
+    return view('admin.add-listings');
+})->name('add-listings');
+Route::get('/dashboard/profile', function () {
+    return view('admin.profile');
+})->name('profile');
+
+Route::get('/test', [VehiclesController::class, 'index'])->name('vehicles.index');
+Route::post('/test', [VehiclesController::class, 'create'])->name('vehicles.store');

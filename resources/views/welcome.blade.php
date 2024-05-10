@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Lucy Yachts & Cars</title>
+    <title>Miami Luxury Yachts & Cars</title>
 
     <!-- Fonts -->
 
@@ -32,41 +32,7 @@
         <section>
             <div class="boxcar-container">
                 <div class="row">
-                    <!-- blog-blockt-two -->
-                    <div class="blog-blockt-two col-lg-6 col-md-6 col-sm-12">
-                        <div class="inner-box wow fadeInUp animated"
-                            style="visibility: visible; animation-name: fadeInUp;">
-                            <h3 class="title">Are You Looking <br>For a Rental Car ?</h3>
-                            <div class="text">We are committed to providing our customers with exceptional service.
-                            </div>
-                            <a href="{{ route('cars-home') }}" class="read-more">Get Started
-                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14"
-                                    viewBox="0 0 14 14" fill="none">
-                                    <g clip-path="url(#clip0_601_692)">
-                                        <path
-                                            d="M13.6109 0H5.05533C4.84037 0 4.66643 0.173943 4.66643 0.388901C4.66643 0.603859 4.84037 0.777802 5.05533 0.777802H12.6721L0.113697 13.3362C-0.0382246 13.4881 -0.0382246 13.7342 0.113697 13.8861C0.18964 13.962 0.289171 14 0.388666 14C0.488161 14 0.587656 13.962 0.663635 13.8861L13.222 1.3277V8.94447C13.222 9.15943 13.3959 9.33337 13.6109 9.33337C13.8259 9.33337 13.9998 9.15943 13.9998 8.94447V0.388901C13.9998 0.173943 13.8258 0 13.6109 0Z"
-                                            fill="white"></path>
-                                    </g>
-                                    <defs>
-                                        <clipPath id="clip0_601_692">
-                                            <rect width="14" height="14" fill="white"></rect>
-                                        </clipPath>
-                                    </defs>
-                                </svg>
-                            </a>
-                            <div class="hover-img">
-
-                                <!--?xml version="1.0" encoding="utf-8"?--><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-                                <svg width="100px" height="100px" viewBox="0 0 24 24" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path
-                                        d="M3 8L5.72187 10.2682C5.90158 10.418 6.12811 10.5 6.36205 10.5H17.6379C17.8719 10.5 18.0984 10.418 18.2781 10.2682L21 8M6.5 14H6.51M17.5 14H17.51M8.16065 4.5H15.8394C16.5571 4.5 17.2198 4.88457 17.5758 5.50772L20.473 10.5777C20.8183 11.1821 21 11.8661 21 12.5623V18.5C21 19.0523 20.5523 19.5 20 19.5H19C18.4477 19.5 18 19.0523 18 18.5V17.5H6V18.5C6 19.0523 5.55228 19.5 5 19.5H4C3.44772 19.5 3 19.0523 3 18.5V12.5623C3 11.8661 3.18166 11.1821 3.52703 10.5777L6.42416 5.50772C6.78024 4.88457 7.44293 4.5 8.16065 4.5ZM7 14C7 14.2761 6.77614 14.5 6.5 14.5C6.22386 14.5 6 14.2761 6 14C6 13.7239 6.22386 13.5 6.5 13.5C6.77614 13.5 7 13.7239 7 14ZM18 14C18 14.2761 17.7761 14.5 17.5 14.5C17.2239 14.5 17 14.2761 17 14C17 13.7239 17.2239 13.5 17.5 13.5C17.7761 13.5 18 13.7239 18 14Z"
-                                        stroke="#000000" stroke-width="2" stroke-linecap="round"
-                                        stroke-linejoin="round"></path>
-                                </svg>
-                            </div>
-                        </div>
-                    </div>
+                    
                     <!-- blog-blockt-two -->
                     <div class="blog-blockt-two col-lg-6 col-md-6 col-sm-12">
                         <div class="inner-box two wow fadeInUp animated" data-wow-delay="100ms"
@@ -142,6 +108,41 @@
                 c0.21-0.039,0.351-0.24,0.313-0.451C15.39,12.253,15.23,12.118,15.041,12.118z"></path>
                                         </g>
                                     </g>
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- blog-blockt-two -->
+                    <div class="blog-blockt-two col-lg-6 col-md-6 col-sm-12">
+                        <div class="inner-box wow fadeInUp animated"
+                            style="visibility: visible; animation-name: fadeInUp;">
+                            <h3 class="title">Are You Looking <br>For a Rental Car ?</h3>
+                            <div class="text">We are committed to providing our customers with exceptional service.
+                            </div>
+                            <a href="{{ route('cars-home') }}" class="read-more">Get Started
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14"
+                                    viewBox="0 0 14 14" fill="none">
+                                    <g clip-path="url(#clip0_601_692)">
+                                        <path
+                                            d="M13.6109 0H5.05533C4.84037 0 4.66643 0.173943 4.66643 0.388901C4.66643 0.603859 4.84037 0.777802 5.05533 0.777802H12.6721L0.113697 13.3362C-0.0382246 13.4881 -0.0382246 13.7342 0.113697 13.8861C0.18964 13.962 0.289171 14 0.388666 14C0.488161 14 0.587656 13.962 0.663635 13.8861L13.222 1.3277V8.94447C13.222 9.15943 13.3959 9.33337 13.6109 9.33337C13.8259 9.33337 13.9998 9.15943 13.9998 8.94447V0.388901C13.9998 0.173943 13.8258 0 13.6109 0Z"
+                                            fill="white"></path>
+                                    </g>
+                                    <defs>
+                                        <clipPath id="clip0_601_692">
+                                            <rect width="14" height="14" fill="white"></rect>
+                                        </clipPath>
+                                    </defs>
+                                </svg>
+                            </a>
+                            <div class="hover-img">
+
+                                <!--?xml version="1.0" encoding="utf-8"?--><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+                                <svg width="100px" height="100px" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M3 8L5.72187 10.2682C5.90158 10.418 6.12811 10.5 6.36205 10.5H17.6379C17.8719 10.5 18.0984 10.418 18.2781 10.2682L21 8M6.5 14H6.51M17.5 14H17.51M8.16065 4.5H15.8394C16.5571 4.5 17.2198 4.88457 17.5758 5.50772L20.473 10.5777C20.8183 11.1821 21 11.8661 21 12.5623V18.5C21 19.0523 20.5523 19.5 20 19.5H19C18.4477 19.5 18 19.0523 18 18.5V17.5H6V18.5C6 19.0523 5.55228 19.5 5 19.5H4C3.44772 19.5 3 19.0523 3 18.5V12.5623C3 11.8661 3.18166 11.1821 3.52703 10.5777L6.42416 5.50772C6.78024 4.88457 7.44293 4.5 8.16065 4.5ZM7 14C7 14.2761 6.77614 14.5 6.5 14.5C6.22386 14.5 6 14.2761 6 14C6 13.7239 6.22386 13.5 6.5 13.5C6.77614 13.5 7 13.7239 7 14ZM18 14C18 14.2761 17.7761 14.5 17.5 14.5C17.2239 14.5 17 14.2761 17 14C17 13.7239 17.2239 13.5 17.5 13.5C17.7761 13.5 18 13.7239 18 14Z"
+                                        stroke="#000000" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round"></path>
                                 </svg>
                             </div>
                         </div>
