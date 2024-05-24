@@ -11,8 +11,8 @@
     <link rel="stylesheet" href="{{ asset('css/mmenu.css') }}" type="text/css">
     <link rel="stylesheet" href="{{ asset('css/style.css') }}" type="text/css">
 
-    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-    <link rel="icon" href="images/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <!-- Responsive -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -52,6 +52,7 @@
     <script src="{{ asset('js/knob.js') }}"></script>
     <script src="{{ asset('js/mmenu.js') }}"></script>
     <script src="{{ asset('js/main.js') }}"></script>
+    @stack('scripts')
     <div class="mm-wrapper__blocker mm-slideout"><a href="#mm-0"><span class="mm-sronly">Close menu</span></a></div>
 </body>
 

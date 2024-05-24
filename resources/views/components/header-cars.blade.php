@@ -5,10 +5,13 @@
                 <!-- Main box -->
                 <div class="c-box">
                     <div class="logo-inner" style="margin-left: 22px;">
-                        <div class="logo"><a href="index.html">
-                                {{-- <img src="images/logo.svg" alt="" title="Boxcar"> --}}
-                                <h2 class="logo-text m-0">Miami Luxury Yachts & Cars</h2>
-                            </a></div>
+                        <div class="logo">
+                            <a href="{{ route('home') }}" class="d-flex justify-content-center align-items-end gap-1">
+                                <img style="width: 4rem; height: 4rem; object-fit: contain;"
+                                    src="{{ asset('images/resource/miami-brand.png') }}" alt="" title="Boxcar">
+                                <h2 class="logo-text m-0 d-none d-sm-block">Miami Luxury Yachts & Cars</h2>
+                            </a>
+                        </div>
                         <!-- <div class="search-btn">
                             <a href="#" class="search">
                                 <span class="icon">
@@ -34,7 +37,7 @@
                                 <ul class="box-car-search">
                                     <li><a href="inventory-page-single.html" class="car-search-item">
                                             <div class="box-img">
-                                                <img src="images/resource/car-search.jpg" alt="img">
+                                                {{-- <img src="images/resource/car-search.jpg" alt="img"> --}}
                                             </div>
                                             <div class="info">
                                                 <p class="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus
@@ -44,7 +47,7 @@
                                         </a></li>
                                     <li><a href="inventory-page-single.html" class="car-search-item">
                                             <div class="box-img">
-                                                <img src="images/resource/car-search.jpg" alt="img">
+                                                {{-- <img src="images/resource/car-search.jpg" alt="img"> --}}
                                             </div>
                                             <div class="info">
                                                 <p class="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus
@@ -54,7 +57,7 @@
                                         </a></li>
                                     <li><a href="inventory-page-single.html" class="car-search-item">
                                             <div class="box-img">
-                                                <img src="images/resource/car-search.jpg" alt="img">
+                                                {{-- <img src="images/resource/car-search.jpg" alt="img"> --}}
                                             </div>
                                             <div class="info">
                                                 <p class="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus
@@ -62,9 +65,9 @@
                                                 <span class="price">$399</span>
                                             </div>
                                         </a></li>
-                                    <li><a href="inventory-page-single.html" class="car-search-item">
+                                    {{-- <li><a href="inventory-page-single.html" class="car-search-item"> --}}
                                             <div class="box-img">
-                                                <img src="images/resource/car-search.jpg" alt="img">
+                                                {{-- <img src="images/resource/car-search.jpg" alt="img"> --}}
                                             </div>
                                             <div class="info">
                                                 <p class="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus

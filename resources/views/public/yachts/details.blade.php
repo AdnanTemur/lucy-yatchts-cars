@@ -492,7 +492,7 @@
                             <span>Our Price</span>
                             <h3 class="title">Per Hours ($789)</h3>
                             <div class="btn-box">
-                                <a href="{{route('checkout', 123)}}" class="side-btn">
+                                <a href="{{ route('checkout', 123) }}" class="side-btn">
                                     <img src="{{ asset('images/resource/tag.svg') }}">
                                     Make An Offer Price
                                 </a>
@@ -517,7 +517,7 @@
                                 </li>
                             </ul>
                         </div>
-
+                        <x-calendar />
                     </div>
                 </div>
             </div>
@@ -903,5 +903,4 @@
         </div>
         <!-- End shop section two -->
     </section>
-    <!-- End inventory-section -->
 @endsection
